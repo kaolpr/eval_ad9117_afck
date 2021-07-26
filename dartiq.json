@@ -1,6 +1,0 @@
-{
-    "python_modules": [
-        "modules/ELHEP_Cores",
-        "modules/migen"
-    ]
-}
