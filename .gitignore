@@ -1,0 +1,4 @@
+build**/
+doc/AD*.pdf
+.Xil/**
+**.pyc

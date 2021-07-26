@@ -1,0 +1,12 @@
+[submodule "modules/artiq"]
+	path = modules/artiq
+	url = https://github.com/elhep/artiq.git
+[submodule "modules/misoc"]
+	path = modules/misoc
+	url = https://github.com/elhep/misoc.git
+[submodule "modules/migen"]
+	path = modules/migen
+	url = https://github.com/elhep/migen.git
+[submodule "modules/ELHEP_Cores"]
+	path = modules/ELHEP_Cores
+	url = https://github.com/elhep/ELHEP_Cores.git
